@@ -1,0 +1,9 @@
+{
+  "name": "AI Live Talking Assistant",
+  "description": "Experience natural, real-time face-to-face conversations with an intelligent AI avatar. Support for 20+ languages, real-time translation, and smart personal assistant services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
